@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mehar</h1>
-<h3 align="center">I'm a developer experienced in building SPA applications for small and medium-sized businesses. whatever you are trying to make, whether you making a website to list your services, an online store, or a personalized social media platform. I can assist you.</h3>
+<h3 align="center">Hey there! I'm a passionate speaker who strongly believes in the mantra of "Lift Others as You Climb Up." Last year, I had the opportunity to attend a transformative Knowledge Streams Bootcamp that really brought out the best in me.
 
-- 🔭 I’m currently working on **Messenger-clone**
+During the bootcamp, I discovered my natural abilities as a leader, a great team player, and a motivator. It was truly eye-opening to realize the impact I could have on others and the power of collaboration. I also delved into the world of MERN Stack development, learning the ins and outs of this powerful technology stack.
 
-- 🌱 I’m currently learning **NextJs with typescript**
+Throughout my technical journey, I always kept the best industry practices in mind, ensuring that our goals were aligned with the highest standards. It was important to me to not only gain technical expertise but also to understand how to apply it effectively and efficiently.
 
-- 💬 Ask me about **React, MVC and MongoDB**
+Overall, this experience has shaped me into a well-rounded individual who is eager to make a positive impact in the world. I'm excited to take what I've learned and use it to uplift others as I continue to climb higher in my personal and professional journey.</h3>
+
+- 🔭 I’m currently working on **Open Source Contributions**
+
+- 🌱 I’m currently learning **Mern Stack inDepth**
+
+- 💬 Ask me about **React, Node & Javascript*
 
 - 📫 How to reach me **muhammad.maher9999@gmail.com**
 
